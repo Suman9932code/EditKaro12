@@ -1,2 +1,2 @@
 # EditKaro12
-This project involves building an interactive and dynamic portfolio webpage for Editkaro.in, a social media marketing and video editing agency. The webpage will showcase various types of video editing services, including short-form videos, long-form videos, gaming videos, football edits, eCommerce ads, documentary style edits, color grading, anime videos, and ads. The portfolio will provide potential clients with a clear overview of the agency's capabilities, leveraging interactive elements, modern design, and responsive layouts to enhance user engagement and experience.
+This project involves building an interactive and dynamic portfolio webpage for Editkaro.in
