@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('header-bg.jpg') center/cover;
+  background: linear-gradient(rgba(125, 243, 186, 0.6), rgba(116, 188, 207, 0.6)), url('header-bg.jpg') center/cover;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -62,6 +62,7 @@ main {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
+  text-decoration:none;
 }
 
 #services li:hover {
@@ -102,7 +103,7 @@ main {
 
 #contact button {
   padding: 10px;
-  background: #333;
+  background: #76e38f;
   color: white;
   border: none;
   border-radius: 5px;
@@ -117,7 +118,7 @@ main {
 footer {
   display: flex;
   justify-content: space-between;
-  background: #333;
+  background: #c79393;
   color: white;
   padding: 10px;
 }
@@ -130,7 +131,6 @@ footer .col1, footer .col2 {
   display: inline-block;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   header h1 {
     font-size: 1.8rem;
